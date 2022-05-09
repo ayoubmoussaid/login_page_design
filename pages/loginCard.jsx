@@ -184,7 +184,7 @@ export default function LoginCard() {
           />
           <CustomIconButton
             startIcon={<Facebook sx={{ color: "black" }} />}
-            title={"Faebook"}
+            title={"Facebook"}
           />
         </Stack>
         <Stack
